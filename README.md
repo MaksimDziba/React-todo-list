@@ -1,3 +1,3 @@
 React app "Список Дел"
 
-img(src="React-todo-list/blob/master/todo-list.jpg?raw=true")
+![Image alt](https://github.com/MaksimDziba/React-todo-list/blob/master/todo-list.jpg)
